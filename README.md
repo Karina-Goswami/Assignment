@@ -29,17 +29,15 @@ Task 4 → Power BI Dashboard  (Interactive Storytelling)
 
 ### Business Questions Answered
 ```
-✅ Which plan tiers have the highest churn rate?
-✅ Does low engagement predict churn?
-✅ Which countries churn the most?
-✅ What is the trial-to-paid conversion rate?
-✅ Which customers are high-value upsell targets?
-✅ What onboarding steps have the highest drop-off?
-✅ How does billing cycle affect churn?
-✅ Which customers downgraded after high support usage?
+ Which plan tiers have the highest churn rate?
+ Does low engagement predict churn?
+ Which countries churn the most?
+ What is the trial-to-paid conversion rate?
+ Which customers are high-value upsell targets?
+ What onboarding steps have the highest drop-off?
+ How does billing cycle affect churn?
+ Which customers downgraded after high support usage?
 ```
-
----
 
 
 
@@ -49,21 +47,21 @@ Task 4 → Power BI Dashboard  (Interactive Storytelling)
 ### Dashboard Highlights
 | Metric | Value |
 |---|---|
-| 💰 Total Revenue | ₹41,65,888 |
-| 📊 Total MRR | $53,039 |
-| 👥 Total Customers | 1,204 |
-| ✅ Active Customers | 938 |
-| ❌ Churned Customers | 266 |
-| 📉 Churn Rate | 22.09% |
-| 😊 Avg NPS Score | 6.86 |
-| 🔄 Trial Conversion | 67.6% |
-| 💸 Lost MRR | $24,214 |
-| 📈 Retention FY25-26 | 80.6% |
+|  Total Revenue | ₹41,65,888 |
+|  Total MRR | $53,039 |
+|  Total Customers | 1,204 |
+|  Active Customers | 938 |
+|  Churned Customers | 266 |
+|  Churn Rate | 22.09% |
+|  Avg NPS Score | 6.86 |
+|  Trial Conversion | 67.6% |
+|  Lost MRR | $24,214 |
+|  Retention FY25-26 | 80.6% |
 
 ---
 <img width="852" height="731" alt="image" src="https://github.com/user-attachments/assets/54e54022-ca8d-4fde-8348-b79a8d8789c2" />
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |---|---|---|
@@ -249,4 +247,3 @@ Worst Plan NPS    = Enterprise Custom (6.57)
 > **Expected Impact:** Annual customers show 40%+ lower churn = direct MRR protection
 
 ---
-</div>
